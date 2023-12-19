@@ -40,7 +40,4 @@ public class AccountController {
     public ResponseEntity<Optional<Account>> getAllAccount(@PathVariable int id){
         return ResponseEntity.ok(service.getAccount(id));
     }
-
-
-
 }

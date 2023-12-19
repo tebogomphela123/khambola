@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  backend:
+    build: .
+    ports:
+      - 8070:8080
+    volumes:
+      - .:/app
+    

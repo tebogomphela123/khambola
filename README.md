@@ -1,0 +1,15 @@
+# SPRINGBOOT APPLICATION DEMOSTRATING PAYLOAD ERROR HANDLING
+
+### INSTALATION:
+- JAVA
+- MAVEN
+
+### RUN
+- mvn spring-boot:run
+
+### STACK USED:
+- 
+
+
+
+
